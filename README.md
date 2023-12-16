@@ -8,7 +8,9 @@ Import Python modules straight from the cloud (e.g. GitHub) at runtime!
 See [examples/example1.py](examples/example1.py)
 
 ## Why?
-This can be used to entirely skip the 'deployment' step for internal tooling, not meant for distribution or public usage. 
+This can be used to entirely skip the "deployment" step for internal tooling, that's not meant for distribution or public usage.
+
+Originally by [James Murphy](https://github.com/mCodingLLC/VideosSampleCode/blob/master/videos/133_cloud_imports/cloud_imports.py) - check out his video "[You won't believe it! Import from the Cloud](https://www.youtube.com/watch?v=2f7YKoOU6_g)"  
 
 ## Limitations
 * No dependency handling
